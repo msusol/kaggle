@@ -1,0 +1,11 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Jupyter
+.ipynb_checkpoints
+
+# MacOS
+.DS_Store
